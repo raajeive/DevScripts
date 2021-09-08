@@ -95,4 +95,4 @@ def connectToHost(ip_addr, port, username, password, prompt):
 
 
 #Connect to Host
-connectToHost("10.93.56.106")
+connectToHost("x.x.x.x")
